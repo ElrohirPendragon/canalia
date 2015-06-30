@@ -1,0 +1,1 @@
+Analisador de partidas de xadrez segundo a FEWETE. Uma tentativa de mecanizar e tornar a análise das posições estratégicas mais rápida. Se funcionar vai permitir ao jogador perceber o momento exato do erro e encontrar a variante certa.
